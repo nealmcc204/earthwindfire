@@ -1,0 +1,5 @@
+Fix multi target spells on single units.
+
+add onscreen log of moves made.
+
+add logging of what players select when leveling up

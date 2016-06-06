@@ -1,0 +1,1391 @@
+
+Ability Stun Smash S added.
+
+Ability Double Strike S added.
+
+Ability Single Fire S added.
+
+Ability Single Earth S added.
+
+Ability Single Water S added.
+
+Ability Single Heal S added.
+
+Ability Stun Smash S added.
+
+Ability Double Strike S added.
+
+Ability Single Fire S added.
+
+Ability Single Earth S added.
+
+Ability Single Water S added.
+
+Ability Single Heal S added.
+Level1
+
+Mage's Turn. 
+Used Single Fire S against Healer , 
+
+Damage's Turn. 
+Damaged Warrior for 20 Physical
+
+Warrior's Turn. 
+Used Stun Smash S against Healer , 
+
+Mage's Turn. 
+Used Single Fire S against Healer , 
+
+Damage's Turn. 
+Damaged Warrior for 20 Physical
+
+Warrior's Turn. 
+Used Stun Smash S against Damage, 
+
+Mage's Turn. 
+Used Single Fire S against Damage, 
+
+Damage's Turn. 
+Damaged Warrior for 20 Physical
+
+Warrior's Turn. 
+Used Stun Smash S against Damage, 
+
+Mage's Turn. 
+Used Single Fire S against Damage, 
+
+Ability Stun Smash S added.
+
+Ability Double Strike S added.
+
+Ability Single Fire S added.
+
+Ability Single Earth S added.
+
+Ability Single Water S added.
+
+Ability Single Heal S added.
+
+Ability Single Fire M added.
+
+Ability Single Water M added.
+
+Ability Single Earth M added.
+
+Ability Lesser Revive added.
+
+Ability Stun Smash M added.
+
+Ability Taunt S added.
+
+Ability Stun Smash S added.
+
+Ability Double Strike S added.
+
+Ability Single Fire S added.
+
+Ability Single Earth S added.
+
+Ability Single Water S added.
+
+Ability Single Heal S added.
+Level1
+
+Mage's Turn. 
+Used Single Fire S against Healer , 
+
+Damage's Turn. 
+Damaged Warrior for 20 Physical
+
+Warrior's Turn. 
+Used Stun Smash S against Damage, 
+
+Ability Stun Smash S added.
+
+Ability Double Strike S added.
+
+Ability Single Fire S added.
+
+Ability Single Earth S added.
+
+Ability Single Water S added.
+
+Ability Single Heal S added.
+Level1
+
+Mage's Turn. 
+Used Single Fire S against Healer , 
+
+Damage's Turn. 
+Damaged Warrior for 20 Physical
+
+Warrior's Turn. 
+Used Stun Smash S against Healer , 
+
+Mage's Turn. 
+Used Single Fire S against Damage, 
+
+Ability Stun Smash S added.
+
+Ability Double Strike S added.
+
+Ability Single Fire S added.
+
+Ability Single Earth S added.
+
+Ability Single Water S added.
+
+Ability Single Heal S added.
+Level1
+
+Mage's Turn. 
+Used Single Fire S against Healer , 
+
+Damage's Turn. 
+Damaged Warrior for 20 Physical
+
+Warrior's Turn. 
+Used Stun Smash S against Damage, 
+
+Ability Stun Smash S added.
+
+Ability Double Strike S added.
+
+Ability Single Fire S added.
+
+Ability Single Earth S added.
+
+Ability Single Water S added.
+
+Ability Single Heal S added.
+
+Ability Stun Smash S added.
+
+Ability Double Strike S added.
+
+Ability Single Fire S added.
+
+Ability Single Earth S added.
+
+Ability Single Water S added.
+
+Ability Single Heal S added.
+Level1
+
+Mage's Turn. 
+Used Single Fire S against Healer , 
+
+Damage's Turn. 
+Damaged Warrior for 20 Physical
+
+Warrior's Turn. 
+Used Stun Smash S against Damage, 
+
+Ability Double Fire S added.
+
+Ability Single Water M added.
+
+Ability Single Earth M added.
+
+Ability Single Heal M added.
+
+Ability Double Strike M added.
+
+Ability Taunt S added.
+Level2
+
+Mage's Turn. 
+Used Double Fire S against Shielder, Healer, 
+
+Damage's Turn. 
+Damaged Warrior for 20 Physical
+
+Warrior's Turn. 
+Used Stun Smash S against Damage, 
+
+Tank's Turn. 
+Damaged Warrior for 15 Physical
+
+Mage's Turn. 
+Used Double Fire S against Tank, 
+
+Ability Double Fire M added.
+
+Ability Single Water L added.
+
+Ability Single Earth L added.
+
+Ability Double Heal M added.
+
+Ability Double Strike L added.
+
+Ability Weak Revive added.
+Level3
+
+Damage's Turn. 
+Damaged Warrior for 40 Fire
+
+Mage's Turn. 
+Used Single Water L against Healer, 
+
+Warrior's Turn. 
+Used Double Strike L against Damage, Tank, 
+
+Shielder's Turn. 
+Shielded Shielder against Water
+
+Mage's Turn. 
+Used Double Fire M against Shielder, 
+
+Ability Triple Fire M added.
+
+Ability Double Water L added.
+
+Ability Single Earth H added.
+
+Ability Lesser Revive added.
+
+Ability Triple Strike L added.
+
+Ability Taunt M added.
+
+Ability Stun Smash S added.
+
+Ability Double Strike S added.
+
+Ability Single Fire S added.
+
+Ability Single Earth S added.
+
+Ability Single Water S added.
+
+Ability Single Heal S added.
+Level1
+
+Mage's Turn. 
+Used Single Heal S on aMage, 
+
+Damage's Turn. 
+Damaged Warrior for 20 Physical
+
+Warrior's Turn. 
+Used Stun Smash S against Damage, 
+
+Healer 's Turn. 
+Healed Healer  for 22
+
+Mage's Turn. 
+Used Single Earth S against Healer , 
+
+Ability Double Fire S added.
+
+Ability Single Water M added.
+
+Ability Single Earth M added.
+
+Ability Single Heal M added.
+
+Ability Double Strike M added.
+
+Ability Taunt S added.
+Level2
+
+Mage's Turn. 
+Used Double Fire S against Shielder, Healer, 
+
+Damage's Turn. 
+Damaged Warrior for 20 Physical
+
+Warrior's Turn. 
+UsedTaunt S
+
+Tank's Turn. 
+Damaged Warrior for 15 Physical
+
+Mage's Turn. 
+Used Single Water M against Damage, 
+
+Warrior's Turn. 
+Used Double Strike M against Tank, 
+
+Ability Double Fire M added.
+
+Ability Single Water L added.
+
+Ability Single Earth L added.
+
+Ability Double Heal M added.
+
+Ability Double Strike L added.
+
+Ability Taunt M added.
+Level3
+
+Damage's Turn. 
+Damaged Warrior for 40 Fire
+
+Mage's Turn. 
+Used Double Fire M against Healer, Damage, 
+
+Warrior's Turn. 
+Used Stun Smash S against Tank, 
+
+Shielder's Turn. 
+Shielded Shielder against Water
+
+Mage's Turn. 
+Used Double Fire M against Shielder, 
+
+Ability Triple Fire M added.
+
+Ability Double Water L added.
+
+Ability Single Earth H added.
+
+Ability Lesser Revive added.
+
+Ability Triple Strike L added.
+
+Ability Taunt L added.
+Level4
+
+Damage's Turn. 
+Damaged Warrior for 40 Fire
+
+Mage's Turn. 
+Used Double Water L against Shielder, Healer, 
+
+Warrior's Turn. 
+Used Stun Smash S against Damage, 
+
+Tank's Turn. 
+Damaged Warrior for 30 Water
+
+Mage's Turn. 
+Used Double Water L against Tank, 
+
+Ability Revive added.
+
+Ability Stun Smash M added.
+
+Ability Weak Revive added.
+Level5
+
+Damage's Turn. 
+Damaged Warrior for 40 Fire
+
+Shielder's Turn. 
+Shielded Shielder against Fire
+Shielded Healer against Fire
+
+Mage's Turn. 
+Used Triple Fire M against Shielder, Healer, Damage, 
+
+Healer's Turn. 
+Healed Damage for 42
+Healed Shielder for 45
+
+Warrior's Turn. 
+Used Stun Smash M against Healer, 
+
+Tank's Turn. 
+Tank is taunting
+
+Damage's Turn. 
+Damaged Warrior for 40 Fire
+
+Shielder's Turn. 
+Shielded Healer against Fire
+
+Mage's Turn. 
+Used Single Earth H against Tank, 
+
+Warrior's Turn. 
+Used Stun Smash M against Tank, 
+
+Damage's Turn. 
+Damaged Warrior for 40 Fire
+Damaged Mage for 40 Fire
+
+Shielder's Turn. 
+Shielded Tank against Fire
+
+Mage's Turn. 
+Used Double Heal M on Warrior, Mage, 
+
+Healer's Turn. 
+Healed Tank for 75
+Healed Healer for 33
+
+Warrior's Turn. 
+Used Triple Strike L against Shielder, Healer, Damage, 
+
+Tank's Turn. 
+Damaged Warrior for 50 Fire
+
+Damage's Turn. 
+Damaged Warrior for 40 Fire
+
+Shielder's Turn. 
+Shielded Damage against Earth
+Shielded Shielder against Earth
+
+Mage's Turn. 
+Used Revive on aWarrior, 
+
+Healer's Turn. 
+Healed Healer for 33
+Healed Damage for 42
+
+Warrior's Turn. 
+Used Stun Smash M against Healer, 
+
+Tank's Turn. 
+Damaged Warrior for 50 Fire
+
+Damage's Turn. 
+Damaged Mage for 40 Fire
+
+Shielder's Turn. 
+All Targets Shielded
+
+Mage's Turn. 
+Used Double Water L against Healer, Damage, 
+
+Healer's Turn. 
+Healed Healer for 33
+Healed Damage for 42
+
+Tank's Turn. 
+Tank is taunting
+
+Shielder's Turn. 
+All Targets Shielded
+
+Mage's Turn. 
+Used Revive on aWarrior, 
+
+Warrior's Turn. 
+UsedTaunt L
+
+Damage's Turn. 
+Damaged Warrior for 40 Fire
+
+Healer's Turn. 
+Healed Healer for 33
+Healed Shielder for 45
+
+Tank's Turn. 
+Damaged Warrior for 50 Fire
+
+Damage's Turn. 
+Damaged Warrior for 40 Fire
+Damaged Mage for 40 Fire
+
+Mage's Turn. 
+Used Revive on aWarrior, 
+
+Shielder's Turn. 
+All Targets Shielded
+
+Healer's Turn. 
+Healed Healer for 33
+Healed Damage for 42
+
+Warrior's Turn. 
+Used Stun Smash M against Healer, 
+
+Tank's Turn. 
+Damaged Warrior for 50 Fire
+
+Damage's Turn. 
+Damaged Mage for 40 Fire
+Level5
+
+Damage's Turn. 
+Damaged Warrior for 40 Fire
+
+Shielder's Turn. 
+Shielded Shielder against Water
+Shielded Healer against Water
+
+Mage's Turn. 
+Used Single Earth H against Healer, 
+
+Healer's Turn. 
+Healed Healer for 33
+Healed Shielder for 45
+
+Warrior's Turn. 
+Used Stun Smash M against Healer, 
+
+Tank's Turn. 
+Tank is taunting
+
+Damage's Turn. 
+Damaged Warrior for 40 Fire
+
+Shielder's Turn. 
+Shielded Damage against Water
+
+Mage's Turn. 
+Used Single Earth H against Tank, 
+
+Warrior's Turn. 
+Used Triple Strike L against Tank, 
+
+Tank's Turn. 
+Damaged Warrior for 50 Fire
+
+Damage's Turn. 
+Damaged Warrior for 40 Fire
+Damaged Mage for 40 Fire
+
+Shielder's Turn. 
+Shielded Tank against Water
+
+Mage's Turn. 
+Used Triple Fire M against Healer, Damage, Tank, 
+
+Tank's Turn. 
+Damaged Mage for 50 Fire
+
+Damage's Turn. 
+Damaged Mage for 40 Fire
+
+Shielder's Turn. 
+All Targets Shielded
+
+Mage's Turn. 
+Used Revive on aWarrior, 
+
+Warrior's Turn. 
+Used Stun Smash M against Damage, 
+
+Tank's Turn. 
+Tank is taunting
+
+Shielder's Turn. 
+All Targets Shielded
+
+Mage's Turn. 
+Used Double Heal M on Warrior, Mage, 
+
+Warrior's Turn. 
+Used Stun Smash M against Tank, 
+
+Damage's Turn. 
+Damaged Mage for 40 Fire
+
+Shielder's Turn. 
+All Targets Shielded
+
+Warrior's Turn. 
+Used Weak Revive on aMage, 
+
+Tank's Turn. 
+Damaged Mage for 50 Fire
+
+Damage's Turn. 
+Damaged Warrior for 40 Fire
+Damaged Mage for 40 Fire
+
+Shielder's Turn. 
+All Targets Shielded
+
+Warrior's Turn. 
+Used Stun Smash M against Damage, 
+
+Tank's Turn. 
+Damaged Warrior for 50 Fire
+Level5
+
+Damage's Turn. 
+Damaged Warrior for 40 Fire
+
+Shielder's Turn. 
+Shielded Shielder against Water
+Shielded Healer against Water
+
+Mage's Turn. 
+Used Triple Fire M against Healer, Damage, Shielder, 
+
+Warrior's Turn. 
+Used Triple Strike L against Tank, 
+
+Ability Greater Revive added.
+
+Ability Stun Smash L added.
+
+Ability Weak Heal added.
+Level6
+
+Damage's Turn. 
+Damaged Warrior for 60 Fire
+Damaged Mage for 60 Fire
+
+Healer's Turn. 
+Healed Shielder for 45
+Healed Healer for 45
+
+Mage's Turn. 
+Used Single Earth H against Healer, 
+
+Shielder's Turn. 
+Shielded Healer against Fire
+Shielded Shielder against Fire
+
+Warrior's Turn. 
+Used Stun Smash L against Tank, 
+
+Damage's Turn. 
+Damaged Mage for 60 Fire
+
+Healer's Turn. 
+Healed Healer for 45
+Healed Tank for 75
+
+Mage's Turn. 
+Used Single Earth H against Healer, 
+
+Shielder's Turn. 
+Shielded Damage against Fire
+
+Warrior's Turn. 
+Used Triple Strike L against Healer, Damage, Tank, 
+
+Tank's Turn. 
+Tank is taunting
+
+Damage's Turn. 
+Damaged Mage for 60 Fire
+
+Shielder's Turn. 
+Shielded Tank against Fire
+
+Warrior's Turn. 
+Used Weak Revive on aMage, 
+
+Tank's Turn. 
+Damaged Mage for 50 Earth
+
+Damage's Turn. 
+Damaged Warrior for 60 Physical
+Damaged Mage for 60 Physical
+
+Shielder's Turn. 
+All Targets Shielded
+
+Warrior's Turn. 
+Used Stun Smash L against Damage, 
+
+Tank's Turn. 
+Damaged Warrior for 50 Earth
+
+Shielder's Turn. 
+All Targets Shielded
+
+Tank's Turn. 
+Tank is taunting
+
+Damage's Turn. 
+Damaged Warrior for 60 Physical
+
+Ability Stun Smash S added.
+
+Ability Double Strike S added.
+
+Ability Single Fire S added.
+
+Ability Single Earth S added.
+
+Ability Single Water S added.
+
+Ability Single Heal S added.
+Level1
+
+Mage's Turn. 
+Used Single Earth S against Healer , 
+
+Damage's Turn. 
+Damaged Warrior for 20 Physical
+
+Warrior's Turn. 
+Used Stun Smash S against Healer , 
+
+Mage's Turn. 
+Used Single Fire S against Healer , 
+
+Damage's Turn. 
+Damaged Warrior for 20 Physical
+
+Warrior's Turn. 
+Used Double Strike S against Damage, 
+
+Mage's Turn. 
+Used Single Earth S against Damage, 
+
+Damage's Turn. 
+Damaged Warrior for 20 Physical
+
+Warrior's Turn. 
+Used Double Strike S against Damage, 
+
+Mage's Turn. 
+Used Single Water S against Damage, 
+
+Ability Double Fire S added.
+
+Ability Single Water M added.
+
+Ability Double Earth S added.
+
+Ability Double Heal S added.
+
+Ability Double Strike M added.
+
+Ability Taunt S added.
+Level2
+
+Mage's Turn. 
+Used Double Earth S against Healer, Shielder, 
+
+Damage's Turn. 
+Damaged Warrior for 20 Physical
+
+Warrior's Turn. 
+Used Double Strike M against Healer, Shielder, 
+
+Shielder's Turn. 
+Shielded Healer against Water
+
+Healer's Turn. 
+Healed Healer for 22
+
+Tank's Turn. 
+Damaged Warrior for 15 Physical
+
+Mage's Turn. 
+Used Double Earth S against Healer, Shielder, 
+
+Damage's Turn. 
+Damaged Warrior for 20 Physical
+
+Warrior's Turn. 
+Used Double Strike M against Healer, Shielder, 
+
+Tank's Turn. 
+Damaged Warrior for 15 Physical
+
+Mage's Turn. 
+Used Double Heal S on Warrior, Mage, 
+
+Damage's Turn. 
+Damaged Warrior for 20 Physical
+
+Warrior's Turn. 
+Used Stun Smash S against Tank, 
+
+Mage's Turn. 
+Used Double Heal S on Warrior, Mage, 
+
+Damage's Turn. 
+Damaged Warrior for 20 Physical
+
+Warrior's Turn. 
+Used Double Strike M against Damage, Tank, 
+
+Tank's Turn. 
+Damaged Warrior for 15 Physical
+
+Mage's Turn. 
+Used Double Heal S on Warrior, Mage, 
+
+Damage's Turn. 
+Damaged Warrior for 20 Physical
+
+Warrior's Turn. 
+Used Double Strike M against Damage, Tank, 
+
+Tank's Turn. 
+Damaged Warrior for 15 Physical
+
+Mage's Turn. 
+Used Double Heal S on Warrior, Mage, 
+
+Damage's Turn. 
+Damaged Warrior for 20 Physical
+
+Warrior's Turn. 
+Used Double Strike M against Tank, Damage, 
+
+Tank's Turn. 
+Damaged Warrior for 15 Physical
+
+Mage's Turn. 
+Used Double Earth S against Tank, 
+
+Ability Double Fire M added.
+
+Ability Single Water L added.
+
+Ability Triple Earth S added.
+
+Ability Single Heal L added.
+
+Ability Double Strike L added.
+
+Ability Weak Revive added.
+Level3
+
+Damage's Turn. 
+Damaged Warrior for 40 Fire
+
+Mage's Turn. 
+Used Triple Earth S against Shielder, Healer, Damage, 
+
+Healer's Turn. 
+Healed Shielder for 30
+Healed Healer for 33
+
+Warrior's Turn. 
+Used Double Strike L against Healer, Shielder, 
+
+Shielder's Turn. 
+Shielded Shielder against Water
+
+Tank's Turn. 
+Damaged Warrior for 15 Physical
+
+Damage's Turn. 
+Damaged Warrior for 40 Fire
+
+Mage's Turn. 
+Used Single Heal L on aWarrior, 
+
+Healer's Turn. 
+Healed Shielder for 30
+Healed Healer for 33
+
+Warrior's Turn. 
+Used Double Strike L against Shielder, Healer, 
+
+Shielder's Turn. 
+Shielded Healer against Water
+
+Tank's Turn. 
+Damaged Warrior for 15 Physical
+
+Damage's Turn. 
+Damaged Warrior for 40 Fire
+
+Mage's Turn. 
+Used Single Heal L on aWarrior, 
+
+Healer's Turn. 
+Healed Shielder for 30
+Healed Healer for 33
+
+Warrior's Turn. 
+Used Double Strike L against Shielder, Healer, 
+
+Tank's Turn. 
+Damaged Warrior for 15 Physical
+
+Damage's Turn. 
+Damaged Warrior for 40 Fire
+Damaged Mage for 40 Fire
+
+Mage's Turn. 
+Used Single Water L against Damage, 
+
+Tank's Turn. 
+Damaged Mage for 15 Physical
+
+Mage's Turn. 
+Used Single Water L against Damage, 
+
+Tank's Turn. 
+Damaged Mage for 15 Physical
+
+Mage's Turn. 
+Used Single Water L against Tank, 
+
+Tank's Turn. 
+Damaged Mage for 15 Physical
+
+Mage's Turn. 
+Used Single Heal L on aMage, 
+
+Tank's Turn. 
+Damaged Mage for 15 Physical
+
+Mage's Turn. 
+Used Single Heal L on aMage, 
+
+Tank's Turn. 
+Damaged Mage for 15 Physical
+
+Mage's Turn. 
+Used Single Heal L on aWarrior, 
+
+Tank's Turn. 
+Damaged Mage for 15 Physical
+
+Mage's Turn. 
+Used Single Water L against Tank, 
+
+Tank's Turn. 
+Damaged Mage for 15 Physical
+
+Mage's Turn. 
+Used Single Water L against Tank, 
+
+Ability Double Fire L added.
+
+Ability Single Water H added.
+
+Ability Triple Earth M added.
+
+Ability Double Heal M added.
+
+Ability Triple Strike L added.
+
+Ability Taunt M added.
+Level4
+
+Damage's Turn. 
+Damaged Warrior for 40 Fire
+
+Mage's Turn. 
+Used Single Water H against Shielder, 
+
+Healer's Turn. 
+Healed Healer for 33
+Healed Damage for 42
+
+Warrior's Turn. 
+UsedTaunt M
+
+Tank's Turn. 
+Damaged Warrior for 30 Water
+
+Damage's Turn. 
+Damaged Warrior for 40 Fire
+
+Mage's Turn. 
+Used Single Heal L on aWarrior, 
+
+Healer's Turn. 
+Healed Healer for 33
+Healed Damage for 42
+
+Warrior's Turn. 
+UsedTaunt M
+
+Tank's Turn. 
+Damaged Warrior for 30 Water
+
+Damage's Turn. 
+Damaged Warrior for 40 Fire
+
+Mage's Turn. 
+Used Single Heal L on aWarrior, 
+
+Healer's Turn. 
+Healed Healer for 33
+Healed Damage for 42
+
+Warrior's Turn. 
+UsedTaunt M
+
+Tank's Turn. 
+Damaged Warrior for 30 Water
+
+Damage's Turn. 
+Damaged Warrior for 40 Fire
+
+Mage's Turn. 
+Used Single Heal L on aWarrior, 
+
+Healer's Turn. 
+Healed Healer for 33
+Healed Damage for 42
+
+Warrior's Turn. 
+Used Stun Smash S against Damage, 
+
+Tank's Turn. 
+Damaged Warrior for 30 Water
+
+Mage's Turn. 
+Used Single Water H against Damage, 
+
+Healer's Turn. 
+Healed Healer for 33
+Healed Tank for 60
+
+Warrior's Turn. 
+Used Triple Strike L against Healer, Tank, 
+
+Tank's Turn. 
+Damaged Warrior for 30 Water
+
+Mage's Turn. 
+Used Single Heal L on aWarrior, 
+
+Healer's Turn. 
+Healed Healer for 33
+Healed Tank for 60
+
+Warrior's Turn. 
+Used Triple Strike L against Tank, Healer, 
+
+Tank's Turn. 
+Damaged Warrior for 30 Water
+
+Mage's Turn. 
+Used Double Fire L against Healer, Tank, 
+
+Warrior's Turn. 
+Used Triple Strike L against Tank, 
+
+Tank's Turn. 
+Damaged Warrior for 30 Water
+
+Mage's Turn. 
+Used Triple Earth M against Tank, 
+
+Ability Lesser Revive added.
+
+Ability Stun Smash M added.
+
+Ability Taunt L added.
+Level5
+
+Damage's Turn. 
+Damaged Warrior for 40 Fire
+
+Shielder's Turn. 
+Shielded Shielder against Fire
+Shielded Healer against Fire
+
+Mage's Turn. 
+Used Single Water H against Shielder, 
+
+Healer's Turn. 
+Healed Healer for 33
+Healed Damage for 42
+
+Warrior's Turn. 
+UsedTaunt L
+
+Tank's Turn. 
+Damaged Warrior for 50 Fire
+
+Damage's Turn. 
+Damaged Warrior for 40 Fire
+
+Mage's Turn. 
+Used Single Heal L on aWarrior, 
+
+Healer's Turn. 
+Healed Healer for 33
+Healed Damage for 42
+
+Warrior's Turn. 
+UsedTaunt L
+
+Tank's Turn. 
+Damaged Warrior for 50 Fire
+
+Damage's Turn. 
+Damaged Warrior for 40 Fire
+
+Mage's Turn. 
+Used Single Heal L on aWarrior, 
+
+Healer's Turn. 
+Healed Healer for 33
+Healed Damage for 42
+
+Warrior's Turn. 
+Used Triple Strike L against Healer, Damage, Tank, 
+
+Tank's Turn. 
+Tank is taunting
+
+Damage's Turn. 
+Damaged Warrior for 40 Fire
+Damaged Mage for 40 Fire
+
+Mage's Turn. 
+Used Single Water H against Tank, 
+
+Healer's Turn. 
+Healed Healer for 33
+Healed Damage for 42
+
+Warrior's Turn. 
+Used Triple Strike L against Healer, Damage, 
+
+Damage's Turn. 
+Damaged Warrior for 40 Fire
+
+Mage's Turn. 
+Used Double Fire L against Damage, Healer, 
+
+Healer's Turn. 
+Healed Damage for 42
+Healed Healer for 33
+
+Warrior's Turn. 
+Used Triple Strike L against Healer, Damage, 
+
+Ability Revive added.
+
+Ability Stun Smash L added.
+
+Ability Weak Heal added.
+Level6
+
+Damage's Turn. 
+Damaged Warrior for 60 Physical
+Damaged Mage for 60 Physical
+
+Healer's Turn. 
+Healed Shielder for 45
+Healed Healer for 45
+
+Mage's Turn. 
+Used Single Water H against Damage, 
+
+Shielder's Turn. 
+Shielded Shielder against Water
+Shielded Healer against Fire
+
+Warrior's Turn. 
+Used Stun Smash L against Shielder, 
+
+Tank's Turn. 
+Tank is taunting
+
+Healer's Turn. 
+Healed Shielder for 45
+Healed Healer for 45
+
+Mage's Turn. 
+Used Single Water H against Tank, 
+
+Warrior's Turn. 
+Used Triple Strike L against Tank, 
+
+Healer's Turn. 
+RevivedDamage
+Healed Damage for 54
+
+Shielder's Turn. 
+Shielded Damage against Fire
+
+Mage's Turn. 
+Used Single Water H against Healer, 
+
+Warrior's Turn. 
+Used Triple Strike L against Shielder, Damage, 
+
+Shielder's Turn. 
+All Targets Shielded
+
+Mage's Turn. 
+Used Single Water H against Shielder, 
+
+Warrior's Turn. 
+Used Stun Smash L against Shielder, 
+
+Mage's Turn. 
+Used Triple Earth M against Shielder, 
+
+Ability Stun Smash S added.
+
+Ability Double Strike S added.
+
+Ability Single Fire S added.
+
+Ability Single Earth S added.
+
+Ability Single Water S added.
+
+Ability Single Heal S added.
+Level1
+
+Mage's Turn. 
+Used Single Earth S against Healer , 
+
+Damage's Turn. 
+Damaged Warrior for 20 Physical
+
+Warrior's Turn. 
+Used Double Strike S against Damage, 
+
+Ability Stun Smash S added.
+
+Ability Double Strike S added.
+
+Ability Single Fire S added.
+
+Ability Single Earth S added.
+
+Ability Single Water S added.
+
+Ability Single Heal S added.
+
+Ability Stun Smash S added.
+
+Ability Double Strike S added.
+
+Ability Single Fire S added.
+
+Ability Single Earth S added.
+
+Ability Single Water S added.
+
+Ability Single Heal S added.
+
+Ability Stun Smash S added.
+
+Ability Double Strike S added.
+
+Ability Single Fire S added.
+
+Ability Single Earth S added.
+
+Ability Single Water S added.
+
+Ability Single Heal S added.
+
+Ability Stun Smash S added.
+
+Ability Double Strike S added.
+
+Ability Single Fire S added.
+
+Ability Single Earth S added.
+
+Ability Single Water S added.
+
+Ability Single Heal S added.
+
+Ability Stun Smash S added.
+
+Ability Double Strike S added.
+
+Ability Single Fire S added.
+
+Ability Single Earth S added.
+
+Ability Single Water S added.
+
+Ability Single Heal S added.
+
+Ability Stun Smash S added.
+
+Ability Double Strike S added.
+
+Ability Single Fire S added.
+
+Ability Single Earth S added.
+
+Ability Single Water S added.
+
+Ability Single Heal S added.
+
+Ability Stun Smash S added.
+
+Ability Double Strike S added.
+
+Ability Single Fire S added.
+
+Ability Single Earth S added.
+
+Ability Single Water S added.
+
+Ability Single Heal S added.
+
+Ability Stun Smash S added.
+
+Ability Double Strike S added.
+
+Ability Single Fire S added.
+
+Ability Single Earth S added.
+
+Ability Single Water S added.
+
+Ability Single Heal S added.
+
+Ability Stun Smash S added.
+
+Ability Double Strike S added.
+
+Ability Single Fire S added.
+
+Ability Single Earth S added.
+
+Ability Single Water S added.
+
+Ability Single Heal S added.
+Level1
+
+Ability Single Fire M added.
+
+Ability Single Water M added.
+
+Ability Single Earth M added.
+
+Ability Stun Smash S added.
+
+Ability Double Strike S added.
+
+Ability Single Fire S added.
+
+Ability Single Earth S added.
+
+Ability Single Water S added.
+
+Ability Single Heal S added.
+
+Ability Stun Smash S added.
+
+Ability Double Strike S added.
+
+Ability Single Fire S added.
+
+Ability Single Earth S added.
+
+Ability Single Water S added.
+
+Ability Single Heal S added.
+
+Ability Stun Smash S added.
+
+Ability Double Strike S added.
+
+Ability Single Fire S added.
+
+Ability Single Earth S added.
+
+Ability Single Water S added.
+
+Ability Single Heal S added.
+
+Ability Stun Smash S added.
+
+Ability Double Strike S added.
+
+Ability Single Fire S added.
+
+Ability Single Earth S added.
+
+Ability Single Water S added.
+
+Ability Single Heal S added.

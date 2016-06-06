@@ -1,0 +1,28 @@
+Level1
+
+Mage's Turn. 
+Used Single Fire S against Healer Enemy, 
+
+Damage Enemy's Turn. 
+Damaged Warrior for 20 Physical
+
+Warrior's Turn. 
+Used Stun Smash S against Healer Enemy, 
+
+Mage's Turn. 
+Used Single Fire S against Healer Enemy, 
+
+Damage Enemy's Turn. 
+Damaged Warrior for 20 Physical
+
+Warrior's Turn. 
+Used Stun Smash S against Damage Enemy, 
+
+Mage's Turn. 
+Used Single Fire S against Damage Enemy, 
+
+Damage Enemy's Turn. 
+Damaged Warrior for 20 Physical
+
+Warrior's Turn. 
+Used Stun Smash S against Damage Enemy, 
